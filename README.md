@@ -74,14 +74,6 @@ const blob = await response.blob();
 // Usar o blob (imagem com watermark)
 ```
 
-## 📚 Documentação Completa
-
-A documentação completa está disponível na pasta `docs/`:
-
-- **[Documentação Técnica Completa](./docs/API_DOCUMENTATION.md)** - Arquitetura, detalhes técnicos, diagramas
-- **[Guia de Requisições](./docs/API_REQUEST_GUIDE.md)** - Exemplos práticos em múltiplas linguagens
-- **[Interface de Teste](./docs/test-request.html)** - Página HTML para testar a API no navegador
-
 ## ⚙️ Configuração
 
 ### Tamanho da Marca d'Água
